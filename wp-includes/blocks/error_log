@@ -1,0 +1,8 @@
+[28-Jan-2024 02:46:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/maklonparfume.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/maklonparfume.com/wp-includes/blocks/index.php on line 8
+[13-May-2024 08:53:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/maklonparfume.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/maklonparfume.com/wp-includes/blocks/index.php on line 8

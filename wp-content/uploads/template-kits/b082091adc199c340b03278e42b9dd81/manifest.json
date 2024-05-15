@@ -1,0 +1,1505 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Rosemary - Health & Beauty Brand Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "HOMEPAGE",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/rosemary\/template-kit\/homepage\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "ABOUT US",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/rosemary\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "PRICING",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/rosemary\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CONTACT US",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/rosemary\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "OUR BLOG",
+            "screenshot": "screenshots\/our-blog.jpg",
+            "source": "templates\/our-blog.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/rosemary\/template-kit\/our-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "BENEFITS",
+            "screenshot": "screenshots\/benefits.jpg",
+            "source": "templates\/benefits.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/rosemary\/template-kit\/benefits\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/rosemary\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "TESTIMONIAL",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/rosemary\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "PRODUCT DETAIL",
+            "screenshot": "screenshots\/product-detail.jpg",
+            "source": "templates\/product-detail.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/rosemary\/template-kit\/product-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "PRODUCT",
+            "screenshot": "screenshots\/product.jpg",
+            "source": "templates\/product.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/rosemary\/template-kit\/product\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "METFORM - CONTACT",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/rosemary\/template-kit\/form-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "HEADER",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/rosemary\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FOOTER",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/rosemary\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.5",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.3",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "PowerPack Lite for Elementor",
+            "version": "2.6.11",
+            "file": "powerpack-lite-for-elementor\/powerpack-lite-elementor.php",
+            "author": "IdeaBox Creations"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.6.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "landing-page-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/landing-page-1-800x499.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "PRICING"
+                }
+            ],
+            "filesize": 208167,
+            "dimensions": [
+                1296,
+                808
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/packaging-mockup-design-luxury-style-VC2XAPW"
+        },
+        {
+            "filename": "photo-1-1.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/photo-1-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                }
+            ],
+            "filesize": 189685,
+            "dimensions": [
+                1152,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/green-leaves-background-EJSH9TV"
+        },
+        {
+            "filename": "background-1-2.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/background-1-2-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "PRICING"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "PRODUCT"
+                }
+            ],
+            "filesize": 185720,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/fresh-green-leaves-EB2F5T9"
+        },
+        {
+            "filename": "product-1-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/product-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "ABOUT US"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "PRICING"
+                }
+            ],
+            "filesize": 158177,
+            "dimensions": [
+                646,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/luxury-bottle-mockup-realistic-texture-VNJ9U4M"
+        },
+        {
+            "filename": "testimonial.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/testimonial.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "ABOUT US"
+                }
+            ],
+            "filesize": 39964,
+            "dimensions": [
+                249,
+                94
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-diverse-entrepreneurs-laughing-against--4V9NAJX"
+        },
+        {
+            "filename": "product-5.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/product-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "ABOUT US"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "PRODUCT"
+                }
+            ],
+            "filesize": 51822,
+            "dimensions": [
+                646,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/luxury-bottle-mockup-realistic-texture-VNJ9U4M"
+        },
+        {
+            "filename": "product-6.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/product-6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "ABOUT US"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "PRODUCT"
+                }
+            ],
+            "filesize": 141636,
+            "dimensions": [
+                646,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/luxury-bottle-mockup-realistic-texture-VNJ9U4M"
+        },
+        {
+            "filename": "product-7.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/product-7.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "ABOUT US"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "PRODUCT"
+                }
+            ],
+            "filesize": 53416,
+            "dimensions": [
+                646,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/premium-mockup-glass-bottle-FSKRDSA"
+        },
+        {
+            "filename": "product-8.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/product-8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "ABOUT US"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "PRODUCT"
+                }
+            ],
+            "filesize": 97429,
+            "dimensions": [
+                646,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/vitamin-bottle-mockup-S92CJBF"
+        },
+        {
+            "filename": "background-7.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/background-7-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "PRODUCT"
+                }
+            ],
+            "filesize": 112566,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/green-tea-leaf-isolated-on-white-background-U5V9K2J"
+        },
+        {
+            "filename": "icon-3.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "PRODUCT"
+                }
+            ],
+            "filesize": 9712,
+            "dimensions": [
+                300,
+                269
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/30-sale-promotion-icons-H3D6769"
+        },
+        {
+            "filename": "icon-4.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "PRODUCT"
+                }
+            ],
+            "filesize": 22527,
+            "dimensions": [
+                300,
+                269
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/30-sale-promotion-icons-H3D6769"
+        },
+        {
+            "filename": "icon-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "PRODUCT"
+                }
+            ],
+            "filesize": 8402,
+            "dimensions": [
+                300,
+                269
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/30-sale-promotion-icons-H3D6769"
+        },
+        {
+            "filename": "icon-2.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "PRODUCT"
+                }
+            ],
+            "filesize": 35285,
+            "dimensions": [
+                300,
+                269
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/30-sale-promotion-icons-H3D6769"
+        },
+        {
+            "filename": "photo-3-1.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/photo-3-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                }
+            ],
+            "filesize": 88565,
+            "dimensions": [
+                1152,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smooth-green-leaves-background-K8YFTSW"
+        },
+        {
+            "filename": "photo-2-6.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/photo-2-6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                }
+            ],
+            "filesize": 198612,
+            "dimensions": [
+                646,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pure-beauty-attractive-young-woman-looking-at-came-WGDVE2L"
+        },
+        {
+            "filename": "background-2-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/background-2-1-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "ABOUT US"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "CONTACT US"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "PRODUCT DETAIL"
+                }
+            ],
+            "filesize": 44565,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/green-tea-leaf-isolated-on-white-background-U5V9K2J"
+        },
+        {
+            "filename": "product-2-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/product-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "PRICING"
+                }
+            ],
+            "filesize": 83228,
+            "dimensions": [
+                646,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/premium-mockup-glass-bottle-FSKRDSA"
+        },
+        {
+            "filename": "vitamin-1-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/vitamin-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "PRODUCT DETAIL"
+                }
+            ],
+            "filesize": 76406,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/plastic-pill-bottle-with-colorful-vitamins-mockup-GFK6ZV6"
+        },
+        {
+            "filename": "vitamin-e.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/vitamin-e.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "PRODUCT DETAIL"
+                }
+            ],
+            "filesize": 71491,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/plastic-pill-bottle-with-colorful-vitamins-mockup-GFK6ZV6"
+        },
+        {
+            "filename": "vitamin-a.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/vitamin-a.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "PRODUCT DETAIL"
+                }
+            ],
+            "filesize": 75063,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/plastic-pill-bottle-with-colorful-vitamins-mockup-GFK6ZV6"
+        },
+        {
+            "filename": "vitamin-q10.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/vitamin-q10.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "PRODUCT DETAIL"
+                }
+            ],
+            "filesize": 77850,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/plastic-pill-bottle-with-colorful-vitamins-mockup-GFK6ZV6"
+        },
+        {
+            "filename": "vitamin-b1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/vitamin-b1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "PRODUCT DETAIL"
+                }
+            ],
+            "filesize": 73281,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/plastic-pill-bottle-with-colorful-vitamins-mockup-GFK6ZV6"
+        },
+        {
+            "filename": "photo-5-1.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/photo-5-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                }
+            ],
+            "filesize": 80812,
+            "dimensions": [
+                1152,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/green-leaves-background-SHAXL74"
+        },
+        {
+            "filename": "photo-6.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/photo-6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                }
+            ],
+            "filesize": 201157,
+            "dimensions": [
+                646,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/she-is-perfection-attractive-young-woman-looking-a-R4CEF5A"
+        },
+        {
+            "filename": "background-3.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/background-3-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "ABOUT US"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "PRICING"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "TESTIMONIAL"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "PRODUCT DETAIL"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "PRODUCT"
+                }
+            ],
+            "filesize": 85684,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/green-tea-leaf-isolated-on-white-background-QT9A8NZ"
+        },
+        {
+            "filename": "testimonial-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/04\/testimonial-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "TESTIMONIAL"
+                }
+            ],
+            "filesize": 117938,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-diverse-entrepreneurs-laughing-against--4V9NAJX"
+        },
+        {
+            "filename": "testimonial-2.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/04\/testimonial-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "TESTIMONIAL"
+                }
+            ],
+            "filesize": 108909,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-diverse-entrepreneurs-laughing-against--4V9NAJX"
+        },
+        {
+            "filename": "testimonial-4.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/04\/testimonial-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "TESTIMONIAL"
+                }
+            ],
+            "filesize": 145309,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-diverse-entrepreneurs-laughing-against--4V9NAJX"
+        },
+        {
+            "filename": "testimonial-3.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/04\/testimonial-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "TESTIMONIAL"
+                }
+            ],
+            "filesize": 100598,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-diverse-entrepreneurs-laughing-against--4V9NAJX"
+        },
+        {
+            "filename": "product-3-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/product-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                }
+            ],
+            "filesize": 207173,
+            "dimensions": [
+                646,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/luxury-bottle-mockup-realistic-texture-VNJ9U4M"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "ABOUT US"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "TESTIMONIAL"
+                }
+            ],
+            "filesize": 16527,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/freshoca-avocado-logo-template-UJF6UT"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "ABOUT US"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "TESTIMONIAL"
+                }
+            ],
+            "filesize": 11324,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/natural-fruits-logo-template-3Q3ME9"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "ABOUT US"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "TESTIMONIAL"
+                }
+            ],
+            "filesize": 9106,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/healthy-beat-logo-template-YQHAVM"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "ABOUT US"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "TESTIMONIAL"
+                }
+            ],
+            "filesize": 11665,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/juice-delirium-logo-template-BLCEM2"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "ABOUT US"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "TESTIMONIAL"
+                }
+            ],
+            "filesize": 15674,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/fresh-avocado-logo-template-7D4A7E"
+        },
+        {
+            "filename": "background-5.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/background-5-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "PRICING"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "TESTIMONIAL"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "PRODUCT"
+                }
+            ],
+            "filesize": 67124,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/green-tea-leaf-isolated-on-white-background-QT9A8NZ"
+        },
+        {
+            "filename": "background-6.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/background-6-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "CONTACT US"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 107028,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/fresh-green-leaves-EB2F5T9"
+        },
+        {
+            "filename": "photo-10.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/photo-10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                }
+            ],
+            "filesize": 22121,
+            "dimensions": [
+                787,
+                787
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-asian-woman-with-skincare-body-cosmetic-trea-C3VQMSZ"
+        },
+        {
+            "filename": "photo-11.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/photo-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                }
+            ],
+            "filesize": 28777,
+            "dimensions": [
+                787,
+                787
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/lovely-lady-appying-antiperspirant-deodorant-on-he-HHYVSBZ"
+        },
+        {
+            "filename": "photo-8.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/photo-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                }
+            ],
+            "filesize": 45537,
+            "dimensions": [
+                787,
+                787
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-woman-holding-a-skin-care-product-4C4R78S"
+        },
+        {
+            "filename": "photo-9.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/photo-9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "HOMEPAGE"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                }
+            ],
+            "filesize": 34603,
+            "dimensions": [
+                787,
+                787
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-young-blonde-woman-applying-moisturizing-G2E9NMS"
+        },
+        {
+            "filename": "cover.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/cover-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "ABOUT US"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "PRICING"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "CONTACT US"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "OUR BLOG"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "TESTIMONIAL"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "PRODUCT DETAIL"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "PRODUCT"
+                }
+            ],
+            "filesize": 179870,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/30-tree-and-leaves-overlays-UTJHZ3L"
+        },
+        {
+            "filename": "photo-7.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/photo-7-800x807.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "ABOUT US"
+                }
+            ],
+            "filesize": 195843,
+            "dimensions": [
+                825,
+                832
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-woman-in-white-spring-coat-E4RWC6G"
+        },
+        {
+            "filename": "ttd.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/ttd.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "ABOUT US"
+                }
+            ],
+            "filesize": 11675,
+            "dimensions": [
+                300,
+                127
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "cta-2.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/cta-2.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "PRICING"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "PRODUCT"
+                }
+            ],
+            "filesize": 112215,
+            "dimensions": [
+                776,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/luxury-bottle-mockup-realistic-texture-VNJ9U4M"
+        },
+        {
+            "filename": "background-8-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/background-8-1-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "PRICING"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "PRODUCT"
+                }
+            ],
+            "filesize": 108374,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/30-tree-and-leaves-overlays-UTJHZ3L"
+        },
+        {
+            "filename": "cta-1-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/cta-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "PRICING"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "PRODUCT DETAIL"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "PRODUCT"
+                }
+            ],
+            "filesize": 82880,
+            "dimensions": [
+                776,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/colorful-grapes-EJQMAHS"
+        },
+        {
+            "filename": "benefit-3.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/benefit-3.png",
+            "templates": [
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                }
+            ],
+            "filesize": 139827,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-young-blonde-woman-applying-moisturizing-G2E9NMS"
+        },
+        {
+            "filename": "benefit-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/benefit-1.png",
+            "templates": [
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                }
+            ],
+            "filesize": 128114,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/lovely-lady-appying-antiperspirant-deodorant-on-he-HHYVSBZ"
+        },
+        {
+            "filename": "benefit-2.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/benefit-2.png",
+            "templates": [
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                }
+            ],
+            "filesize": 126628,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-woman-holding-a-skin-care-product-4C4R78S"
+        },
+        {
+            "filename": "benefit-4.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/03\/benefit-4.png",
+            "templates": [
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "BENEFITS"
+                }
+            ],
+            "filesize": 126455,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/girl-applying-moisturizer-cream-3WREVSP"
+        },
+        {
+            "filename": "logo-rosemary-2.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/rosemary\/wp-content\/uploads\/sites\/39\/2022\/04\/logo-rosemary-2.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "HEADER"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "FOOTER"
+                }
+            ],
+            "filesize": 11652,
+            "dimensions": [
+                414,
+                98
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
